@@ -1,12 +1,13 @@
 # fabriciobomfin-## 👋
 
 <div>
-<img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40sojibrahmatuzzaman%2Fthe-way-of-entering-the-programming-world-fe134d90a021&psig=AOvVaw3tYSydoVc-9HNglZ-obFlp&ust=1759929138241000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiMmY2VkpADFQAAAAAdAAAAABA2)" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40sojibrahmatuzzaman%2Fthe-way-of-entering-the-programming-world-fe134d90a021&psig=AOvVaw3tYSydoVc-9HNglZ-obFlp&ust=1759929138241000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiMmY2VkpADFQAAAAAdAAAAABA2" />
 </div>
-Olá! Me chamo **Fabrício**, tenho **20 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas** no **SENAI Dendezeiros**.  
-Atualmente  estou me aprofundando em **desenvolvimento de sistemas, automação e programação em Python**.  
 
-Estou focado em pesquisar sobre novas tecnologia e busco evoluir constantemente, criando projetos que unam **lógica, design e boas práticas de desenvolvimento**.  
+Olá! Me chamo Fabrício, tenho 20 anose sou estudante de Análise e Desenvolvimento de Sistemas no SENAI Dendezeiros.  
+Atualmente  estou me aprofundando em desenvolvimento de sistemas, automação e programação em Python.  
+
+Estou focado em pesquisar sobre novas tecnologia e busco evoluir constantemente, criando projetos que unam lógica, design e boas práticas de desenvolvimento.  
 Gosto de explorar diferentes linguagens e ferramentas para entender como cada tecnologia pode resolver problemas do mundo real.
 
 ---
@@ -38,7 +39,7 @@ Gosto de explorar diferentes linguagens e ferramentas para entender como cada te
 ### 🚀 Projetos e estudos atuais:
 
 - Aprofundamento em **Programação Orientada a Objetos (POO)**  
-- Prática de **testes automatizados** e versionamento com **GitHub Codespaces**  
+- Prática de **testes automatizados** e versionamento com **GitHub Codespaces* 
 - Desenvolvimento de **projetos pessoais em Python** com foco em lógica e automação
 
 ---
